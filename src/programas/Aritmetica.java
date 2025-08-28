@@ -19,7 +19,7 @@ public class Aritmetica {
         promedio=suma/2;
         
        //salida
-      
+       System.out.println("probaando andOOo");
        System.out.println("La suma es "+suma);
        System.out.println("El promedio es "+promedio);
        
